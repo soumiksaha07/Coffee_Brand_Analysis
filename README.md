@@ -17,5 +17,4 @@ Our goal is to analyze the World Roaster Review dataset through detailed explora
 7. Which locations have the highest and lowest average prices per 100g, and what are these prices?
 8. Find the average rating for coffee in each selling location.
 9. Top 5 high average rating coffee brands in Asia, do they have a common Mouthfeel?
-10. 10. Which country contributes the most to the dataset in terms of coffee production?
-
+10. Which country contributes the most to the dataset in terms of coffee production?
