@@ -9,12 +9,9 @@ Our goal is to analyze the World Roaster Review dataset through detailed explora
 
 - **Questions to Explore:**
 1. What is the most expensive coffee per 100g, and what features distinguish it?
-2. What are the top 10 highest-rated coffee brands?
+2. What are the top 5 coffee brands in terms of avg rating?
 3. Which roaster has received the best reviews in terms of average rating?
 4. Which country of origin has the highest average rating for coffee?
 5. Which coffee brand has the best/worst average rating every year?
 6. How many coffees have a rating above 90?
-7. Which locations have the highest and lowest average prices per 100g, and what are these prices?
-8. Find the average rating for coffee in each selling location.
-9. Top 5 high average rating coffee brands in Asia, do they have a common Mouthfeel?
-10. Which country contributes the most to the dataset in terms of coffee production?
+7. Find the average rating for coffee in each selling location.
